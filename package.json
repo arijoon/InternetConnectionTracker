@@ -1,0 +1,16 @@
+{
+  "name": "intenet-checker",
+  "version": "1.0.0",
+  "description": "Check internet connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js -t 5000"
+  },
+  "author": "Arman Yaraee",
+  "license": "ISC",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "minimist": "^1.2.0"
+  }
+}
