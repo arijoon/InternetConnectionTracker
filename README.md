@@ -14,6 +14,12 @@ Default is 5 seconds. For 1 second interval between requests run following
 ```
 node index.js -t 1000
 ```
+#### Options
+```
+  -t      Time in between requests in milliseconds
+  -d      Debug mode
+  -h      Show options
+```
 
 ### Basic output
 ```
