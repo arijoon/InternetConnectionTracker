@@ -18,6 +18,7 @@ node index.js -t 1000
 ```
   -t      Time in between requests in milliseconds
   -d      Debug mode
+  -l      Write logs to logs.txt
   -h      Show options
 ```
 
